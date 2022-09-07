@@ -6,6 +6,7 @@ body {
     flex-direction: column;
 }
 
+
 .box{
     display: flex;
     align-items: center;
